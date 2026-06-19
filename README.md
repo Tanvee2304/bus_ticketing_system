@@ -11,7 +11,7 @@ A full-stack web application for a bus ticketing platform with AI-powered natura
 |---|---|
 | Backend | Python 3.11, FastAPI, SQLAlchemy (SQLite), Pydantic v2 |
 | Auth | JWT (python-jose), bcrypt (passlib) |
-| AI Search | Anthropic Claude API (`claude-sonnet-4-6`) |
+| AI Search | Groq API (`llama-3.1-8b-instant`) |
 | Frontend | React 18, Vite, React Router v6 |
 | Styling | Custom CSS (no component library) |
 | HTTP Client | Axios |
